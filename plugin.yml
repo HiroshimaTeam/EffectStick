@@ -1,0 +1,7 @@
+name: EffectStick
+author: HiroTeam-Willy
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\EffectStick\main
+website: https://github.com/HiroshimaTeam
+    
